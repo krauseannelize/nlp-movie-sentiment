@@ -14,4 +14,5 @@ dependencies = [
     "pandas>=2.2",
     "scikit-learn>=1.6",
     "seaborn>=0.13",
+    "xgboost>=2.1",
 ]
